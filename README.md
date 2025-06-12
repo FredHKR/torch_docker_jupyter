@@ -2,7 +2,7 @@ Below is the workflow for creating new versions of dockerfiles and push them to 
 
 build the image:
 
-docker build -t torch_docker_jupyter:v7
+docker build -t torch_docker_jupyter:v7 .
 
 
 retag the image:
