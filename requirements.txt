@@ -1,0 +1,14 @@
+jupyterlab
+matplotlib
+natsort
+numpy
+pandas
+scikit-image
+scikit-learn
+seaborn
+statsmodels
+streamlit
+timm
+torch
+torchvision
+ultralytics
