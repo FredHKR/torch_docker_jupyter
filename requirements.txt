@@ -2,7 +2,11 @@ jupyterlab
 matplotlib
 natsort
 numpy
+optuna>=3.0.0 
 pandas
+Pillow>=8.0.0 
+pyswmm[swmm5.2.4]
+PyYAML>=5.4.1       # for YAML‐based configs
 scikit-image
 scikit-learn
 seaborn

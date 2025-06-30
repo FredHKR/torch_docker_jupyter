@@ -1,0 +1,7 @@
+# Ignore every directory…
+*/
+
+# …but track these top-level files:
+!Dockerfile
+!requirements.txt
+!/.gitignore
