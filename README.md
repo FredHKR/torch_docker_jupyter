@@ -7,7 +7,7 @@ docker build -t torch_docker_jupyter:v8 .
 
 retag the image:
 
-docker tag torch_docker_jupyter:v7 fredfrisk/torch-jupyter:v8
+docker tag torch_docker_jupyter:v8 fredfrisk/torch-jupyter:v8
 
 
 versionNumber is the next version you want to create.
