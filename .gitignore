@@ -4,4 +4,5 @@
 # …but track these top-level files:
 !Dockerfile
 !requirements.txt
+!README.md
 !/.gitignore
